@@ -5,4 +5,4 @@ Code about Semi-Cyclic[1] can also be found [here](https://github.com/google-res
 
 
 
-[1] [Semi-Cyclic Stochastic Gradient Descent](https://proceedings.mlr.press/v97/eichner19a.html)
+[1] [Eichner, Hubert, et al. "Semi-cyclic stochastic gradient descent." International Conference on Machine Learning. PMLR, 2019.](https://proceedings.mlr.press/v97/eichner19a.html)
